@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="53.371" height="29.271" viewBox="0 0 53.371 29.271">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00cb06" stop-opacity="0.396"/>
+      <stop offset="1" stop-color="#18db1e" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="Groupe_2530" data-name="Groupe 2530" transform="translate(-1533.807 -829.892)">
+    <path id="Random_data" data-name="Random data" d="M-19220-10218s6.627,13.44,12.408,13.44,5.785,4.276,11.566,4.276c5.572,0,5.572-17.717,11.354-17.717s15.311,13.44,15.311,13.44" transform="translate(20755.146 11049.23)" fill="none" stroke="#00cb06" stroke-linecap="round" stroke-width="2"/>
+    <path id="Random_data-2" data-name="Random data" d="M-19219-10214.612s5.652,10.053,11.52,10.053,5.871,4.276,11.742,4.276c5.652,0,5.652-17.717,11.52-17.717s16.324,13.44,16.324,13.44v14.492H-19219Z" transform="translate(20754.928 11049.23)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>
